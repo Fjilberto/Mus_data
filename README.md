@@ -1,6 +1,6 @@
 # Assigment result by each sample using the PCR-HRM method and the morphological results. Data used for stadistical analysis in the paper Rapid genus-level identification in mussels Mytilus, Aulacomya, and Choromytilus using PCR-HRM
 
-Species Location Country Year n 
+Species Location Country Collection Year n 
 
 *Mytilus chilensis* Pichicolo Chile 2019 60 
 
